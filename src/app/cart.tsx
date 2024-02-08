@@ -11,7 +11,7 @@ import { LinkButton } from "@/components/link-button";
 import { useCallback, useState } from "react";
 import { useNavigation } from "expo-router";
 
-const PHONE_NUMBER = "5511994749422"
+const PHONE_NUMBER = ""
 
 export default function Cart() {
   const [address, setAddress] = useState<string>("")
