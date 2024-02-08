@@ -1,5 +1,7 @@
 # NLW Expert 2024 - Projeto de Estudo
 
+![Layout](./example.png)
+
 ## Descrição
 Este projeto foi desenvolvido durante a maratona NLW Expert 2024, uma iniciativa que visa proporcionar aprendizado intensivo e prático em tecnologias emergentes. O objetivo do projeto foi criar um aplicativo que permite a interação com produtos, possibilitando a adição e remoção de itens do carrinho, além de facilitar o envio dos produtos selecionados para o WhatsApp.
 
